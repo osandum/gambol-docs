@@ -9,6 +9,11 @@
     <artifactId>gambol-docs</artifactId>
     <version>0.6-SNAPSHOT</version>
 
+    <name>Gambol Schema</name>
+    <description>
+      XSD schema definitions for game reports
+    </description>
+
     <organization>
         <name>Sandum.Net</name>
         <url>http://sandum.net/</url>

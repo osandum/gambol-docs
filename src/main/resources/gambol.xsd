@@ -253,7 +253,16 @@
             <xs:enumeration value="FIST" />
             <xs:enumeration value="KNEE" />
             <xs:enumeration value="INTRF" />
-            <xs:enumeration value="ROUGH" />
+            <xs:enumeration value="ROUGH">
+                <xs:annotation>
+                    <xs:documentation>Striking an opponent during an altercation that the officials decide is not severe enough to earn a more severe penalty. If a player punches another with gloves on during a skirmish officials will sometimes give a roughing penalty</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="FIGHT">
+                <xs:annotation>
+                    <xs:documentation>A fighting major is called when a player drops the gloves and throws blows at another player</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="DELAY" />
             <xs:enumeration value="REFUS" />
             <xs:enumeration value="EMBEL" />
