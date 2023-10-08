@@ -45,6 +45,12 @@
         </pluginRepository>
     </pluginRepositories>
 
+    <scm>
+        <connection>scm:git:git://github.com:osandum/gambol-docs.git</connection>
+        <developerConnection>scm:git:git@github.com:osandum/gambol-docs.git</developerConnection>
+        <url>https://github.com/osandum/gambol-docs</url>
+    </scm>
+
     <build>
         <plugins>
             <plugin>
