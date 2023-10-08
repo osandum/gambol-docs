@@ -6,7 +6,7 @@
 
     <groupId>gambol</groupId>
     <artifactId>gambol-docs</artifactId>
-    <version>0.6</version>
+    <version>0.7-SNAPSHOT</version>
 
     <name>Gambol Schema</name>
     <description>
@@ -48,7 +48,7 @@
         <connection>scm:git:git://github.com:osandum/gambol-docs.git</connection>
         <developerConnection>scm:git:git@github.com:osandum/gambol-docs.git</developerConnection>
         <url>https://github.com/osandum/gambol-docs</url>
-      <tag>gambol-docs-0.6</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <build>
