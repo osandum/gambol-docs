@@ -11,7 +11,7 @@ import javax.xml.bind.annotation.adapters.XmlAdapter;
  */
 public class XmlDateTimeAdapter extends XmlAdapter<String, Date> {
 
-    private DateFormat df = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss");
+    private final DateFormat df = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss");
 
     @Override
     public Date unmarshal(String s) throws ParseException {
@@ -20,7 +20,6 @@ public class XmlDateTimeAdapter extends XmlAdapter<String, Date> {
 
     @Override
     public String marshal(Date d) {
-      System.err.println("... " + d);
         return df.format(d);
     }
 
