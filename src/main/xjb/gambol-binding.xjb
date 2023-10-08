@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<bindings xmlns="http://java.sun.com/xml/ns/jaxb"
+<bindings xmlns="https://jakarta.ee/xml/ns/jaxb"
           xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance"
           xmlns:g="http://sandum.net/namespaces/gambol"
           xmlns:xs="http://www.w3.org/2001/XMLSchema"
           elementFormDefault="qualified"
           xmlns:xjc="http://java.sun.com/xml/ns/jaxb/xjc"
           extensionBindingPrefixes="xjc"
-          xsi:schemaLocation="http://java.sun.com/xml/ns/jaxb http://java.sun.com/xml/ns/jaxb/bindingschema_2_0.xsd"
-          version="2.1">
+          xsi:schemaLocation="https://jakarta.ee/xml/ns/jaxb https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd"
+          version="3.0">
 
     <bindings schemaLocation="../xsd/gambol.xsd">
         <schemaBindings>
