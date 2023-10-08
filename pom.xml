@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>gambol</groupId>
     <artifactId>gambol-docs</artifactId>
-    <version>0.6-SNAPSHOT</version>
+    <version>0.6</version>
 
     <name>Gambol Schema</name>
     <description>
@@ -49,7 +48,8 @@
         <connection>scm:git:git://github.com:osandum/gambol-docs.git</connection>
         <developerConnection>scm:git:git@github.com:osandum/gambol-docs.git</developerConnection>
         <url>https://github.com/osandum/gambol-docs</url>
-    </scm>
+      <tag>gambol-docs-0.6</tag>
+  </scm>
 
     <build>
         <plugins>
