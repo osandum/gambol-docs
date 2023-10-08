@@ -86,6 +86,17 @@
                 <version>0.2.5</version>
             </extension>
         </extensions>
+
+        <resources>
+          <resource>
+            <directory>${project.basedir}/src/main</directory>
+            <includes>
+              <include>xsd/**</include>
+              <include>xjb/**</include>
+            </includes>
+            <targetPath>META-INF</targetPath>
+          </resource>
+        </resources>
     </build>
 
     <dependencies>

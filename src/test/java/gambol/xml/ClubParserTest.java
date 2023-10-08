@@ -1,12 +1,11 @@
 package gambol.xml;
 
 import java.net.URL;
-import javax.xml.XMLConstants;
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Unmarshaller;
 import javax.xml.validation.Schema;
-import javax.xml.validation.SchemaFactory;
+import net.sandum.xml.GambolHelper;
 import org.junit.After;
 import static org.junit.Assert.*;
 import org.junit.Before;
@@ -28,9 +27,7 @@ public class ClubParserTest {
 
         assertNotNull(jaxbContext);
 
-        SchemaFactory sf = SchemaFactory.newInstance(XMLConstants.W3C_XML_SCHEMA_NS_URI);
-        schema = sf.newSchema(getClass().getResource("/gambol.xsd"));
-
+        schema = GambolHelper.getSchema();
     }
 
     @After
