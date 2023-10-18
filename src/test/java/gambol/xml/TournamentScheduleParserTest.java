@@ -32,6 +32,7 @@ public class TournamentScheduleParserTest {
         URL src = getClass().getResource(path);
 
         Unmarshaller um = jaxbContext.createUnmarshaller();
+        um.setSchema(schema);
         Tournament cal = (Tournament)um.unmarshal(src);
         assertNotNull(cal);
 

@@ -151,9 +151,9 @@
             <xs:element name="side" minOccurs="2" maxOccurs="2" type="g:Side" />
 
             <xs:element name="start-time" minOccurs="1" maxOccurs="1" type="xs:dateTime"/>
-            <xs:element name="end-time" minOccurs="1" maxOccurs="1" type="xs:dateTime"/>
-            <xs:element name="location" minOccurs="1" maxOccurs="1" type="xs:string"/>
-            <xs:element name="result" minOccurs="0" maxOccurs="1" />
+            <xs:element name="end-time" minOccurs="0" maxOccurs="1" type="xs:dateTime"/>
+            <xs:element name="location" minOccurs="0" maxOccurs="1" type="xs:string"/>
+            <xs:element name="outcome" minOccurs="0" maxOccurs="1" />
             <xs:element name="match-details" minOccurs="0" maxOccurs="1" type="xs:anyURI" />
 
         </xs:sequence>
