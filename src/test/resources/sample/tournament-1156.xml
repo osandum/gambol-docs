@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tournament
-    xmlns="http://sandum.net/namespaces/gambol"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-    source-ref="DIU:1156" season="2015" slug="u11.1-øst">
+<tournament xmlns="http://sandum.net/namespaces/gambol" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" source-ref="DIU:1156" season="2015" slug="u11.1-øst">
   <!--
 
                 Source: no-source
@@ -22,7 +19,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36190:herlev:hvidovre" schedule="confirmed" match-number="2">
     <!-- Match sheet: gamesheet.aspx?gameID=36190-->
-    <diu-match-id>36190</diu-match-id>
+    <!-- DIU match id: 36190 -->
     <side role="home">
       <team club-ref="herlev">Herlev</team>
       <score>2</score>
@@ -38,7 +35,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36191:rungsted:gentofte" schedule="confirmed" match-number="3">
     <!-- Match sheet: gamesheet.aspx?gameID=36191-->
-    <diu-match-id>36191</diu-match-id>
+    <!-- DIU match id: 36191 -->
     <side role="home">
       <team club-ref="rungsted">Rungsted</team>
       <score>2</score>
@@ -54,7 +51,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36192:ksf:amager" schedule="confirmed" match-number="4">
     <!-- Match sheet: gamesheet.aspx?gameID=36192-->
-    <diu-match-id>36192</diu-match-id>
+    <!-- DIU match id: 36192 -->
     <side role="home">
       <team club-ref="ksf">KSF</team>
       <score>3</score>
@@ -71,7 +68,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36193:gentofte:herlev" schedule="confirmed" match-number="5">
     <!-- Match sheet: gamesheet.aspx?gameID=36193-->
-    <diu-match-id>36193</diu-match-id>
+    <!-- DIU match id: 36193 -->
     <side role="home">
       <team club-ref="gentofte">Gentofte Stars</team>
       <score>5</score>
@@ -87,7 +84,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36194:hvidovre:rødovre" schedule="confirmed" match-number="6">
     <!-- Match sheet: gamesheet.aspx?gameID=36194-->
-    <diu-match-id>36194</diu-match-id>
+    <!-- DIU match id: 36194 -->
     <side role="home">
       <team club-ref="hvidovre">Hvidovre</team>
       <score>3</score>
@@ -112,7 +109,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36196:rungsted:ksf" schedule="confirmed" match-number="8">
     <!-- Match sheet: gamesheet.aspx?gameID=36196-->
-    <diu-match-id>36196</diu-match-id>
+    <!-- DIU match id: 36196 -->
     <side role="home">
       <team club-ref="rungsted">Rungsted</team>
       <score>2</score>
@@ -128,7 +125,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36197:amager:hvidovre" schedule="confirmed" match-number="9">
     <!-- Match sheet: gamesheet.aspx?gameID=36197-->
-    <diu-match-id>36197</diu-match-id>
+    <!-- DIU match id: 36197 -->
     <side role="home">
       <team club-ref="amager">Amar Jets</team>
       <score>12</score>
@@ -144,7 +141,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36198:rødovre:gentofte" schedule="confirmed" match-number="10">
     <!-- Match sheet: gamesheet.aspx?gameID=36198-->
-    <diu-match-id>36198</diu-match-id>
+    <!-- DIU match id: 36198 -->
     <side role="home">
       <team club-ref="rødovre">Rødovre</team>
       <score>6</score>
@@ -160,7 +157,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36199:herlev:rungsted" schedule="confirmed" match-number="11">
     <!-- Match sheet: gamesheet.aspx?gameID=36199-->
-    <diu-match-id>36199</diu-match-id>
+    <!-- DIU match id: 36199 -->
     <side role="home">
       <team club-ref="herlev">Herlev</team>
       <score>20</score>
@@ -185,7 +182,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36201:rungsted:rødovre" schedule="confirmed" match-number="13">
     <!-- Match sheet: gamesheet.aspx?gameID=36201-->
-    <diu-match-id>36201</diu-match-id>
+    <!-- DIU match id: 36201 -->
     <side role="home">
       <team club-ref="rungsted">Rungsted</team>
       <score>2</score>
@@ -201,7 +198,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36202:gentofte:amager" schedule="confirmed" match-number="14">
     <!-- Match sheet: gamesheet.aspx?gameID=36202-->
-    <diu-match-id>36202</diu-match-id>
+    <!-- DIU match id: 36202 -->
     <side role="home">
       <team club-ref="gentofte">Gentofte Stars</team>
       <score>12</score>
@@ -244,7 +241,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36206:amager:rungsted" schedule="confirmed" match-number="18">
     <!-- Match sheet: gamesheet.aspx?gameID=36206-->
-    <diu-match-id>36206</diu-match-id>
+    <!-- DIU match id: 36206 -->
     <side role="home">
       <team club-ref="amager">Amar Jets</team>
       <score>8</score>
@@ -260,7 +257,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36207:rødovre:herlev" schedule="confirmed" match-number="19">
     <!-- Match sheet: gamesheet.aspx?gameID=36207-->
-    <diu-match-id>36207</diu-match-id>
+    <!-- DIU match id: 36207 -->
     <side role="home">
       <team club-ref="rødovre">Rødovre</team>
       <score>2</score>
@@ -276,7 +273,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36208:ksf:hvidovre" schedule="confirmed" match-number="20">
     <!-- Match sheet: gamesheet.aspx?gameID=36208-->
-    <diu-match-id>36208</diu-match-id>
+    <!-- DIU match id: 36208 -->
     <side role="home">
       <team club-ref="ksf">KSF</team>
       <score>0</score>
@@ -310,7 +307,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36211:gentofte:hvidovre" schedule="confirmed" match-number="23">
     <!-- Match sheet: gamesheet.aspx?gameID=36211-->
-    <diu-match-id>36211</diu-match-id>
+    <!-- DIU match id: 36211 -->
     <side role="home">
       <team club-ref="gentofte">Gentofte Stars</team>
       <score>11</score>
@@ -326,7 +323,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36212:rødovre:ksf" schedule="confirmed" match-number="24">
     <!-- Match sheet: gamesheet.aspx?gameID=36212-->
-    <diu-match-id>36212</diu-match-id>
+    <!-- DIU match id: 36212 -->
     <side role="home">
       <team club-ref="rødovre">Rødovre</team>
       <score>18</score>
@@ -342,7 +339,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36213:hvidovre:rungsted" schedule="confirmed" match-number="25">
     <!-- Match sheet: gamesheet.aspx?gameID=36213-->
-    <diu-match-id>36213</diu-match-id>
+    <!-- DIU match id: 36213 -->
     <side role="home">
       <team club-ref="hvidovre">Hvidovre</team>
       <score>9</score>
@@ -367,7 +364,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36215:amager:rødovre" schedule="confirmed" match-number="27">
     <!-- Match sheet: gamesheet.aspx?gameID=36215-->
-    <diu-match-id>36215</diu-match-id>
+    <!-- DIU match id: 36215 -->
     <side role="home">
       <team club-ref="amager">Amar Jets</team>
       <score>0</score>
@@ -401,7 +398,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36218:hvidovre:herlev" schedule="confirmed" match-number="30">
     <!-- Match sheet: gamesheet.aspx?gameID=36218-->
-    <diu-match-id>36218</diu-match-id>
+    <!-- DIU match id: 36218 -->
     <side role="home">
       <team club-ref="hvidovre">Hvidovre</team>
       <score>8</score>
@@ -417,7 +414,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36219:gentofte:rungsted" schedule="confirmed" match-number="31">
     <!-- Match sheet: gamesheet.aspx?gameID=36219-->
-    <diu-match-id>36219</diu-match-id>
+    <!-- DIU match id: 36219 -->
     <side role="home">
       <team club-ref="gentofte">Gentofte Stars</team>
       <score>14</score>
@@ -433,7 +430,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36220:amager:ksf" schedule="confirmed" match-number="32">
     <!-- Match sheet: gamesheet.aspx?gameID=36220-->
-    <diu-match-id>36220</diu-match-id>
+    <!-- DIU match id: 36220 -->
     <side role="home">
       <team club-ref="amager">Amar Jets</team>
       <score>0</score>
@@ -449,7 +446,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36221:herlev:gentofte" schedule="confirmed" match-number="33">
     <!-- Match sheet: gamesheet.aspx?gameID=36221-->
-    <diu-match-id>36221</diu-match-id>
+    <!-- DIU match id: 36221 -->
     <side role="home">
       <team club-ref="herlev">Herlev</team>
       <score>3</score>
@@ -465,7 +462,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36222:rødovre:hvidovre" schedule="confirmed" match-number="34">
     <!-- Match sheet: gamesheet.aspx?gameID=36222-->
-    <diu-match-id>36222</diu-match-id>
+    <!-- DIU match id: 36222 -->
     <side role="home">
       <team club-ref="rødovre">Rødovre</team>
       <score>13</score>
@@ -499,7 +496,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36225:hvidovre:amager" schedule="confirmed" match-number="37">
     <!-- Match sheet: gamesheet.aspx?gameID=36225-->
-    <diu-match-id>36225</diu-match-id>
+    <!-- DIU match id: 36225 -->
     <side role="home">
       <team club-ref="hvidovre">Hvidovre</team>
       <score>7</score>
@@ -515,7 +512,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36226:gentofte:rødovre" schedule="confirmed" match-number="38">
     <!-- Match sheet: gamesheet.aspx?gameID=36226-->
-    <diu-match-id>36226</diu-match-id>
+    <!-- DIU match id: 36226 -->
     <side role="home">
       <team club-ref="gentofte">Gentofte Stars</team>
       <score>3</score>
@@ -531,7 +528,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36227:rungsted:herlev" schedule="confirmed" match-number="39">
     <!-- Match sheet: gamesheet.aspx?gameID=36227-->
-    <diu-match-id>36227</diu-match-id>
+    <!-- DIU match id: 36227 -->
     <side role="home">
       <team club-ref="rungsted">Rungsted</team>
       <score>3</score>
@@ -556,7 +553,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36229:rødovre:rungsted" schedule="confirmed" match-number="41">
     <!-- Match sheet: gamesheet.aspx?gameID=36229-->
-    <diu-match-id>36229</diu-match-id>
+    <!-- DIU match id: 36229 -->
     <side role="home">
       <team club-ref="rødovre">Rødovre</team>
       <score>7</score>
@@ -573,7 +570,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36230:amager:gentofte" schedule="confirmed" match-number="42">
     <!-- Match sheet: gamesheet.aspx?gameID=36230-->
-    <diu-match-id>36230</diu-match-id>
+    <!-- DIU match id: 36230 -->
     <side role="home">
       <team club-ref="amager">Amar Jets</team>
       <score>4</score>
@@ -598,7 +595,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36232:ksf:herlev" schedule="confirmed" match-number="44">
     <!-- Match sheet: gamesheet.aspx?gameID=36232-->
-    <diu-match-id>36232</diu-match-id>
+    <!-- DIU match id: 36232 -->
     <side role="home">
       <team club-ref="ksf">KSF</team>
       <score>2</score>
@@ -623,7 +620,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36234:rungsted:amager" schedule="confirmed" match-number="46">
     <!-- Match sheet: gamesheet.aspx?gameID=36234-->
-    <diu-match-id>36234</diu-match-id>
+    <!-- DIU match id: 36234 -->
     <side role="home">
       <team club-ref="rungsted">Rungsted</team>
       <score>3</score>
@@ -639,7 +636,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36235:herlev:rødovre" schedule="confirmed" match-number="47">
     <!-- Match sheet: gamesheet.aspx?gameID=36235-->
-    <diu-match-id>36235</diu-match-id>
+    <!-- DIU match id: 36235 -->
     <side role="home">
       <team club-ref="herlev">Herlev</team>
       <score>1</score>
@@ -655,7 +652,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36236:hvidovre:ksf" schedule="confirmed" match-number="48">
     <!-- Match sheet: gamesheet.aspx?gameID=36236-->
-    <diu-match-id>36236</diu-match-id>
+    <!-- DIU match id: 36236 -->
     <side role="home">
       <team club-ref="hvidovre">Hvidovre</team>
       <score>6</score>
@@ -671,7 +668,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36237:amager:herlev" schedule="confirmed" match-number="49">
     <!-- Match sheet: gamesheet.aspx?gameID=36237-->
-    <diu-match-id>36237</diu-match-id>
+    <!-- DIU match id: 36237 -->
     <side role="home">
       <team club-ref="amager">Amar Jets</team>
       <score>1</score>
@@ -697,7 +694,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36239:hvidovre:gentofte" schedule="confirmed" match-number="51">
     <!-- Match sheet: gamesheet.aspx?gameID=36239-->
-    <diu-match-id>36239</diu-match-id>
+    <!-- DIU match id: 36239 -->
     <side role="home">
       <team club-ref="hvidovre">Hvidovre</team>
       <score>2</score>
@@ -713,7 +710,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36240:ksf:rødovre" schedule="confirmed" match-number="52">
     <!-- Match sheet: gamesheet.aspx?gameID=36240-->
-    <diu-match-id>36240</diu-match-id>
+    <!-- DIU match id: 36240 -->
     <side role="home">
       <team club-ref="ksf">KSF</team>
       <score>1</score>
@@ -729,7 +726,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36241:rungsted:hvidovre" schedule="confirmed" match-number="53">
     <!-- Match sheet: gamesheet.aspx?gameID=36241-->
-    <diu-match-id>36241</diu-match-id>
+    <!-- DIU match id: 36241 -->
     <side role="home">
       <team club-ref="rungsted">Rungsted</team>
       <score>3</score>
@@ -763,7 +760,7 @@
   </fixture>
   <fixture source-ref="DIU:1156:36244:gentofte:ksf" schedule="confirmed" match-number="56">
     <!-- Match sheet: gamesheet.aspx?gameID=36244-->
-    <diu-match-id>36244</diu-match-id>
+    <!-- DIU match id: 36244 -->
     <side role="home">
       <team club-ref="gentofte">Gentofte Stars</team>
       <score>15</score>
